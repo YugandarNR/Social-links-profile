@@ -29,6 +29,7 @@ body,
 
 #location {
   color: #c5f82a;
+  font-weight:bold;
   font-size: 0.75em;
   margin-bottom: 5%;
 }
@@ -64,4 +65,5 @@ img {
 
 #about {
   font-size: 0.9em;
+  font-weight:bold;
 }
